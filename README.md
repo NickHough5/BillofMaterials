@@ -28,11 +28,11 @@ Textbox (5,5) width=200 height=100 text="sample text"
 The input is a simple CSV, where the first column contains the "widget" type and the following columns are the properties of that widget.
 Below is an example of this input.txt file:
 ```
-	Rectangle,10,10,30,40
-	Square,15,30,35
-	Ellipse,100,150,300,200
-	Circle,1,1,300
-	Textbox,5,5,200,100,sample text
+Rectangle,10,10,30,40
+Square,15,30,35
+Ellipse,100,150,300,200
+Circle,1,1,300
+Textbox,5,5,200,100,sample text
 ```
 Do note that the input properties must match the following formats
 ```
