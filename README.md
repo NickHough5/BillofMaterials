@@ -1,7 +1,7 @@
 # Bill of Materials
 A scalable application that allows users to specify any number of shapes to generate. These then get output to the console and to a file.
 
-## Inputs
+## Command Line Arguments
 As part of this project there are some command line inputs.
 1. Output file name (within the project, this is currently set to output.txt)
 2. Input file names, you can have as many input files as you wish (within the project, this is currently set to input.txt)
