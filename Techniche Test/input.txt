@@ -1,0 +1,5 @@
+Rectangle,10,10,30,40
+Square,15,30,35
+Ellipse,100,150,300,200
+Circle,1,1,300
+Textbox,5,5,200,100,sample text

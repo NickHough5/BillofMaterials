@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Techniche Test": {
+      "commandName": "Project",
+      "commandLineArgs": "output.txt input.txt"
+    }
+  }
+}
